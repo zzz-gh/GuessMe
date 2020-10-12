@@ -1,0 +1,4 @@
+0 50 Kyats
+1 1000 Kyats
+2 Phone Charger
+3 Japan Book
